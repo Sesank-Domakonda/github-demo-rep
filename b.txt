@@ -1,0 +1,2 @@
+Hi!
+This is b.txt from the main branch.
